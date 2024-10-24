@@ -539,6 +539,9 @@ h2 {
 }
 .participants .controls .slider-counter {
 	color: var(--slide-text);
+	min-width: 30px;
+    text-align: right;
+    margin-left: -4px;
 }
 .participants .controls .slider-counter span {
 	color: var(--text);
