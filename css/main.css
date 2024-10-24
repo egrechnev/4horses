@@ -499,7 +499,7 @@ h2 {
 	padding-top: 60px;
 }
 .participants .carousel ul {
-	overflow-x: auto;
+	overflow-x: hidden;
 	scroll-snap-type: x mandatory;
 	scroll-snap-points-y: repeat(100%);
 	scroll-behavior: smooth;
